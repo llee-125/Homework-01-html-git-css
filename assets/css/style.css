@@ -1,5 +1,3 @@
-/* for any screen larger than 600px */
-@media screen and (min-width: 600px) {
 body {
     background-color: #d9dcd6;
 }
@@ -49,7 +47,7 @@ p {
 .hero {
     height: 800px;
     width: 100%;
-    margin-bottom: 25px;
+    margin-bottom: 8px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
@@ -68,16 +66,16 @@ p {
 main {
     width: 75%;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 20;
 }
 
 aside{
-    margin-right: 20px;
+    margin-right: 10px;
     padding: 20px;
     clear: both;
     float: right;
-    width: 20%;
-    height: 300%;
+    width: 21%;
+    height: 1167px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
@@ -193,183 +191,4 @@ footer {
 
 footer h2 {
     font-size: 20px;
-}
-}
-
-/* For any screen smaller than 599 pixels */
-@media screen and (max-width: 599px) 
-{
-header {
-
-    padding: 10px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
-}
-
-header h1 .seo {
-    color: #d9dcd6;
-} */
-
- header div ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
-.hero {
-    height: 300px;
-    width: 100%;
-    margin-bottom: 0px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-main {
-    width: 97%;
-    display: inline;
-    margin-left: 10px;
-}
-
-aside{
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    width: 88%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
-.benefit-lead {
-    margin-bottom: 53px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 20px;
-    height: 250px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 20px;
-    height: 250px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 20px;
-    height: 250px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 100px;
-}
-
-.online-reputation-management img {
-    max-height: 100px;
-}
-
-.social-media-marketing img {
-    max-height: 100px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 20px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 20px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 20px;
-}
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px; */
-}
 }

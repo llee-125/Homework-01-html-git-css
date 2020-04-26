@@ -18,8 +18,8 @@ THEN I find a concise, descriptive title
 
 # Goals / Motivation
 
-Deployed Application:
-GitHub Repository:
+Deployed Application: https://llee-125.github.io/Homework-01-html-git-css/
+GitHub Repository: https://github.com/llee-125/Homework-01-html-git-css
 
 ## Getting Started
 
@@ -46,11 +46,12 @@ When contributing to this repository, please first discuss the change you wish t
 
 ## Versioning
 
-Many commits (through GitHub) are used to easily track updates and improvements.
+Many commits (through GitHub) are used to easily track updates and improvements. Recevied grade on 4/6/2020; changed code per TA comments, resubmitted 4/25/2020.
 
 ## Authors
 
 - **Louise Lee** - _Initial work_ - llee@berkeley.edu
+- **Louise Lee** - _Fixs per TA Comments_ - llee@berkeley.edu
 
 ## Acknowledgments
 
